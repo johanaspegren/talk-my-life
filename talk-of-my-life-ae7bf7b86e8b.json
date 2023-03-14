@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "talk-of-my-life",
+  "private_key_id": "ae7bf7b86e8be4f449c571b0ee3c3de7155aa693",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfjZxfMkzQENUS\ncl+mUqDJkKnUa3aaGTRxFetSOwkJJoD8Er+U0zB3hmg08cfEktJkqtKTZDZwHMFf\neudHLCIWQ6jhS8ywBWTiu1A7tkQetQ1cn6VFV/AiZd/RseEM6IMEhaNmem9fh8WM\nvM4l8iRHebFPxIIvaDr0CWvAbbcz9oh7nS0Rj+tduZLXQ8QveZdK7nBUwYMOx0Lz\nIaVfIqWX29oqQRupvPsSZ4wePMxfO/SRf4K3oMoTkWctMmY0EX/8cYebRkM/tWv0\nnXJ6P57INWxf3zmWNVlO8IxztE0/kRGVal66nuK11LF/9MtvzGIk9L2zXo4NlXt6\n/Xqj3YBXAgMBAAECggEAAVucxVOK0S9KIb6frIlzzdoxvL4RgJFmxIA4OcS2LB/X\niJUA21PrEISB1ofq26S8X7RNoiKOMTyRMPp9xmyJ2C4Pvi8oCelh55AVj3YlmVlK\n5UUz1JLsz0L2uJFGq+JUPEGU+bbf9CnzK7u+I2HdyGdb5Uh/WjjK7JeLfFzOPdrD\nFgQq8kNtSSpDpg+u/y9uwVr5hOZ88zJ5V2m2S6KhvSNBaLFMibLhEltW65x74Stx\nLJfxHnZOgK5rhYOmi6PN7D+6RjtN2vO3wAspo6X9CGd4MuAdE/ftJhgdGhPBmo1/\nntutORPEQQHdTX4y1UIodJ3jv/mknoAf5+H8gLvQgQKBgQD8NZAbT/kqEfuwZ32X\nasdbgSsohjpYhq+yZgfCodP2FF71MlEvNeNmYzQM2oFBwUUlVhTuwulco0GzCHDg\niYwP1CEypOjvhnsXe0LVPYmXV5H/wiaMmYNQ7mQApwV9/UCKKDcEPDxjo3FE2we0\n1N/XbDuSPjRQ+0MOZcWbvkU4gQKBgQDi6cliU2yxNIMRlkjHYW2wjiyN2Oeit95C\nBx41G8xPGtmQERFyQ876vVxLKLzs6aSjkfn9k/pJYwoqDpiZ1DCN73yB0mRv5rQF\nhq96T0dkHZXC2GkB0thcDxLrf7GiFtbq4Li+p3VBP/jt/8lHR19hqXr3dBXf0lCC\n2gfNtpUM1wKBgDpiH9jiu3gsr4nXezBJDJs3HImGAQ2rKBLxIYzBr3KApra2DisS\nm3CBOHRdRJy3I82PzsqynhjOxg+uvYqM7LphTcoOeMmx5N67ru30D9zT7b058XiM\ntORQOyAXieLvdDhHNO0rEIO0Oy1IUtFeke6pZGTnN28jqxMzJfp2okmBAoGBAN0w\nn4olYDJsycb/A/q20kHklTHAWiuXqCQc5ClI66PAvIte1+7WgpCQvcLV9zPJnR+F\nUHcLJFMdI+9TQxXQbXQuGuRBvn4GGT25yJwlY6YH4NCKO/H3Ici7OOovE2y5bs6O\nOAhBHF96iKEXUZEV1bhRiPhmRFxlmu2ysyCn9isJAoGBAK/4tcFpmzzSv3x+qoZ/\nwfosPiYoWwI/y88bCRi28LoX12X6Zkzs5jOMUNrzttasAJ/8ttYwe/MRxS6GJCbu\n6yviZ3hH5qYboBTacIHE9om/qjalLAXeapFT/JpasiXcjBDzA49ejsyJFa6d3Hc0\neflbDFLEoYcNcCjKrSUqfgxF\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1oeml@talk-of-my-life.iam.gserviceaccount.com",
+  "client_id": "108033951638056348799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1oeml%40talk-of-my-life.iam.gserviceaccount.com"
+}

@@ -2,23 +2,22 @@ inspiration
 https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python
 
 # speech2txt
+
 pip3 install SpeechRecognition pydub
 brew install portaudio
 pip3 install pyaudio
 
 # openai
+
 pip3 install openai
 pip3 install config
 
 # txt2speech
+
 pip3 install pyttsx3
+pip install google-cloud-texttospeech
+pip install python-vlc
 
 # firebase
+
 pip install firebase_admin
-
-
-
-
-
-
-
